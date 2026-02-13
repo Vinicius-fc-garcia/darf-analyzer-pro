@@ -1,0 +1,5 @@
+{
+  "name": "DARF Analyzer Pro",
+  "description": "Ferramenta de análise em lote para arquivos PDF de DARF (5952, 1162, 1708) com extração de dados e exportação para Excel.",
+  "requestFramePermissions": []
+}
